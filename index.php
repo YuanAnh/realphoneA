@@ -170,7 +170,7 @@ session_start();
                         <button>Mua ngay</button>
                     </div>
                     <div class="slide-image">
-                        <img src="img/iphone-16-pro-max-giam-300k-11-3.webp" alt="iPhone 16 Pro Max">
+                        <img src="img/ip.jpg" alt="iPhone 16 Pro Max">
                     </div>
                 </div>
                 <div class="slide">
@@ -191,7 +191,7 @@ session_start();
                         <button>Mua ngay</button>
                     </div>
                     <div class="slide-image">
-                        <img src="img/s25-ultra-xanh-duong-home-14-3.webp" alt="iMac">
+                        <img src="img/ss.jpg" alt="iMac">
                     </div>
                 </div>
                 <div class="slide">
